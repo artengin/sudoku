@@ -2,4 +2,4 @@
 
 *JavaScript | HTML | CSS*
 
-#### Демо вы можете посмотреть здесь: [DEMO](https://art.osepyan.ru/sudoku/)
+#### Демо вы можете посмотреть здесь: [DEMO](https://artengin.github.io/sudoku/)
